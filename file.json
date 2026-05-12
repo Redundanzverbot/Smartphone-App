@@ -1,23 +1,44 @@
 { "lines": [
   {
-    "text": "und # Atemz\u00FCge",
-    "konstante": "m",
-    "faktor": 15,
+    "text": "Wir waren auch viel unterwegs:",
+    "konstante": "1",
+    "faktor": 1,
     "decPl": 0,
-    "update": true
+    "update": false
   },
   {
-    "text": "au\u00DFerdem wurde f\u00FCr # Stunden geschlafen.",
-    "konstante": "d",
-    "faktor": 8,
+    "text": "Titisee-Besuche:",
+    "konstante": "1",
+    "faktor": 1,
+    "decPl": 0,
+    "update": false
+  },
+  {
+    "text": "Bratislava-Besuche:",
+    "konstante": "1",
+    "faktor": 1,
+    "decPl": 0,
+    "update": false
+  },
+  {
+    "text": "Budapest-Besuche:",
+    "konstante": "1",
+    "faktor": 1,
+    "decPl": 0,
+    "update": false
+  },
+  {
+    "text": "Emden-Besuche:",
+    "konstante": "1",
+    "faktor": 1,
+    "decPl": 0,
+    "update": false
+  },
+  {
+    "text": "Und man h\u00E4tte zu Fu\u00DF ganze # km laufen k\u00F6nnen",
+    "konstante": "h",
+    "faktor": 3.6,
     "decPl": 1,
     "update": false
-  },
-  {
-    "text": "Man h\u00E4tte in dieser Zeit # Deutsch-Stunden absitzen k\u00F6nnen...",
-    "konstante": "m",
-    "faktor": 0.0111,
-    "decPl": 0,
-    "update": false
-  } ]
+   }]
 }
