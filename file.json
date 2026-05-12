@@ -7,28 +7,28 @@
     "update": false
   },
   {
-    "text": "Titisee-Besuche:",
+    "text": "Titisee-Besuche: #",
     "konstante": "1",
     "faktor": 1,
     "decPl": 0,
     "update": false
   },
   {
-    "text": "Bratislava-Besuche:",
+    "text": "Bratislava-Besuche: #",
     "konstante": "1",
     "faktor": 1,
     "decPl": 0,
     "update": false
   },
   {
-    "text": "Budapest-Besuche:",
+    "text": "Budapest-Besuche: #",
     "konstante": "1",
     "faktor": 1,
     "decPl": 0,
     "update": false
   },
   {
-    "text": "Emden-Besuche:",
+    "text": "Emden-Besuche: #",
     "konstante": "1",
     "faktor": 1,
     "decPl": 0,
