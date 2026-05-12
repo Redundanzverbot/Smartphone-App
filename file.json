@@ -16,7 +16,7 @@
   {
     "text": "Man h\u00E4tte in dieser Zeit # Deutsch-Stunden absitzen k\u00F6nnen...",
     "konstante": "m",
-    "faktor": 1/90,
+    "faktor": 0.0111,
     "decPl": 0,
     "update": false
   } ]
